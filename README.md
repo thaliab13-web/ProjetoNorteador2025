@@ -1,4 +1,4 @@
-# 🚗 Sistema Norteador - Lavação de Veículos
+# Sistema Norteador - Lavação de Veículos
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Java](https://img.shields.io/badge/Java-17-blue)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📝 Descrição
+## Descrição
 O **Sistema Norteador** é um sistema de controle de lavação de veículos, desenvolvido para gerenciar clientes, veículos, tipos de serviço e ordens de serviço (OS).  
 Permite registrar atendimentos, aplicar descontos, gerar relatórios, buscar veículos por placa e controlar pontos de fidelidade de clientes.
 
@@ -24,7 +24,7 @@ E diferentes categorias de veículos:
 - Grande  
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro de clientes e veículos  
 - Registro de atendimentos com validação de dados  
 - Busca de veículos por placa  
@@ -34,14 +34,14 @@ E diferentes categorias de veículos:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Java** – lógica e backend  
 - **SQL** – banco de dados para armazenamento de clientes, veículos e OS  
 - **HTML** – páginas web para interface (cadastro, login, contato, home)  
 - **VSCode** – ambiente de desenvolvimento  
 ---
 
-## 🚀 Como Executar
+## Como Executar
 1. Abra o projeto na plataforma de sua preferência (**Intellij IDEA, VSCode ou outras**)  
 2. Compile os arquivos Java  
 3. Execute o sistema  
@@ -49,7 +49,7 @@ E diferentes categorias de veículos:
 
 ---
 
-## 🧑‍💻 Autor
+## Autora
 - **Thalia de Lara Barbosa**
 
 - [GitHub] (https://github.com/Thaliabr33)
@@ -58,7 +58,7 @@ E diferentes categorias de veículos:
 
 ---
 
-## 📌 Observações
+## Observações
 - O sistema ainda está em desenvolvimento.  
 - Futuras versões podem incluir integração completa entre Java e interface web.
   
